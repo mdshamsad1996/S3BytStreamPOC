@@ -1,0 +1,14 @@
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\S3ByteStreamPOC.exe.config
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\S3ByteStreamPOC.exe
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\S3ByteStreamPOC.pdb
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.Core.dll
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.S3.dll
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.Core.pdb
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.Core.xml
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.S3.pdb
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\bin\Debug\AWSSDK.S3.xml
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\obj\Debug\S3ByteStreamPOC.csprojAssemblyReference.cache
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\obj\Debug\S3ByteStreamPOC.csproj.CoreCompileInputs.cache
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\obj\Debug\S3ByteStreamPOC.csproj.CopyComplete
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\obj\Debug\S3ByteStreamPOC.exe
+C:\Users\91943\source\repos\S3ByteStreamPOC\S3ByteStreamPOC\obj\Debug\S3ByteStreamPOC.pdb

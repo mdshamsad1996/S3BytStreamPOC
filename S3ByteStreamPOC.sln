@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3ByteStreamPOC", "S3ByteStreamPOC\S3ByteStreamPOC.csproj", "{6E89B922-800F-465D-8E0A-E9325C5B27EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E89B922-800F-465D-8E0A-E9325C5B27EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E89B922-800F-465D-8E0A-E9325C5B27EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E89B922-800F-465D-8E0A-E9325C5B27EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E89B922-800F-465D-8E0A-E9325C5B27EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B5FD7A-82EA-4F37-B379-330AD9BB467B}
+	EndGlobalSection
+EndGlobal
